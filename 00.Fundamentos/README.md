@@ -19,9 +19,6 @@ Los documentos cuyo nombre es Notas.md poseen la siguiente estructura base sujet
     ## Qué NO es
     Errores comunes.
 
-    ## Ejemplo mental
-    Un caso simple explicado sin código.
-
     ## Dudas / cosas para revisar
        
 
